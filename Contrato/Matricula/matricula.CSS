@@ -1,0 +1,13 @@
+:root {
+    /* Definindo as variáveis de cor */
+    --cor-primaria: #040303; /* Preto de feijão */
+    --cor-secundaria: #760f19; /* Borgonha antigo */
+    --cor-terciaria: #5c6a7b; /* Azul cadete */
+    --cor-Espectral: #21211c; /* Preto espectral */
+    --cor-Dourado: #c49845; /* Marrom dourado */
+    --cor-Curry: #9a6b26; /* Curry */
+    --cor-Bazar: #9da6ad; /* Bazar */
+    --cor-Gunmetal: #2d434e; /* Gunmetal */
+    --cor-Pretofumaca: #100e0d; /* Preto esfumaçado */
+    --cor-Siena: #70491a; /* Siena crua */
+  }
